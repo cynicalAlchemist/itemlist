@@ -380,8 +380,8 @@
   {
     "author": "Avius and  Hazzer",
     "name": "Locks",
-    "steamId": "1157085076",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Avius and Hazzer",
@@ -393,7 +393,7 @@
     "author": "Mlie",
     "name": "Convert Then Recruit",
     "steamId": "2702584632",
-    "version": "1.3.12"
+    "version": "1.3.11"
   },
   {
     "author": "Phomor",
@@ -1083,7 +1083,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.4.3"
+    "version": "1.4.2"
   },
   {
     "author": "Knight",
@@ -1210,18 +1210,6 @@
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
     "version": "1.3.8"
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[1.3]Nearmare Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Belvaleth",
-    "name": "Nearmare Race[English Translation]",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "AmCh",
@@ -2398,6 +2386,12 @@
     "name": "Yayo's Animation",
     "steamId": "2575938407",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.3]Nearmare Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nephlite and  Maxim",

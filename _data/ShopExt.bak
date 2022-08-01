@@ -8094,7 +8094,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Nearmare are an artificial race. They are genetically engineered to always be female in order to keep their population under control. They were originally intended to be utilized as weapons using their mental interference abilities, but their low physical endurance made them unsuitable for the task. After escaping, some assimilated into other cultures, while others banded together and founded small villages in secret.\nNearmore can use special weapons to focus their psychic attacks. They can also summon ghostly retainers. However, they are physically weak, so they perform best alongside other races.",
+      "description": "ニアメーアは宙族のある一派が作り上げた人工種族です、国や大きな派閥を作らせないために女性しか産まれないよう遺伝子操作をされています。\n\n元々は「精神干渉型生物兵器」を目標に作られましたが継続的制御や能力強度などの問題によって断念し新たに「諜報活動専門員」として起用・育成されました、その間諜報活動の為高度な教育と不自由のない生活であったため彼女たちが人間に対して悪感情を持つことはありませんでした。\nしかし内紛によって一派は壊滅、幸運にも生き残った一部のニアメーアは持ち前の力を使って部族やキャラバンに潜り込んでその血を繋いできました。\n\n精神干渉するには専用の増幅器である武器が必要でありまた眷属を呼び出すことも可能です。しかし代償として本人たちの身体能力はとても低くか弱いため眷属の活用を筆頭に人間や他の種族たちとの連携を必要とされるでしょう。",
       "defName": "HAR_Nearmaere",
       "enabled": true,
       "name": "ニアメーア",
@@ -8131,7 +8131,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A subspecies of Nearmare who, through faith, have altered their very nature. They are more susceptable to mental attacks, but their physical resilience has been honed by their long training.\n Their summoned creatures are empowered by their faith, granting them increased endurance.",
+      "description": "ニアメーア・ディバウトは創造主への信仰心が深いニアメーア達が信仰を行うものとして自らを変革・剪定を繰り返したことで新たな性質を獲得した変異種です。\n通常種とは異なり感受性が強くまた厳しい修行を経ていることで耐久性が改善しています。\n召喚する眷属も信仰心によって呼び出した信者たちの霊となっており持久性が優れています。",
       "defName": "HAR_Nearmaere_b",
       "enabled": true,
       "name": "ニアメーア・ディバウト",
